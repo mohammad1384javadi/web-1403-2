@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "name": "ali",
+            "family": "ahmadi",
+            "email": "tet"
+        },
+        {
+            "name": "ali",
+            "family": "ahmadi",
+            "email": "test"
+        },
+        {
+            "name": "mohammad",
+            "family": "javadi",
+            "email": "test@test.com"
+        }
+    ]
+}
